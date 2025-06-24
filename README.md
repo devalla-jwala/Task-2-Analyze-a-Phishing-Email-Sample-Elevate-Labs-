@@ -12,6 +12,7 @@ A community-maintained archive of real phishing .eml samples collected via honey
 `nano sample-12.eml `
 
 ![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/de1efae9da8e29133ccedf6feb5144e39511d7f7/pishmail_example.png)
+![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/nano.png)
 
 ## Use an online analyzer (open browser in Kali):
 
@@ -19,6 +20,10 @@ Go to: https://mxtoolbox.com/SuperTool.aspx
 
 Paste header text and click "Analyze"
 
+![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/1.jpg)
+![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/2.jpg)
+![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/3.jpg)
+![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/4.jpg)
 ## Email Overview
 
 - **Subject**: `[Binаnсе] Immediate verification required for rodrigo-f-p@hotmail.com`
