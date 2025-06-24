@@ -11,6 +11,8 @@ A community-maintained archive of real phishing .eml samples collected via honey
 
 `nano sample-12.eml `
 
+![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/de1efae9da8e29133ccedf6feb5144e39511d7f7/pishmail_example.png)
+
 ## Use an online analyzer (open browser in Kali):
 
 Go to: https://mxtoolbox.com/SuperTool.aspx
